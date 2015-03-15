@@ -1,0 +1,1 @@
+SyntaxTrain is a tool which reads and verifies a source file using a given BNF file and graphically shows the error using Syntax Diagrams.
